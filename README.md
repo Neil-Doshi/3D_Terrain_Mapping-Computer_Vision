@@ -1,32 +1,5 @@
 # 3D_Terrain_Mapping-Computer_Vision
 
-TABLE OF CONTENTS
-
-[Remote Aerial Landscape mapping (REALM) i](#_Toc15022)
-
-[Acknowledgements iii](#_Toc15023)
-
-[Abstract iv](#_Toc15024)
-
-[Public Abstract v](#_Toc15025)
-
-[Introduction 1](#_Toc15026)
-
-[Methodology 2](#_Toc15027)
-
-[Camera Calibration 2](#_Toc15028)
-
-[Calculating Disparity 3](#_Toc15029)
-
-[Stitch Disparity 5](#_Toc15030)
-
-[Plot point cloud 6](#_Toc15031)
-
-[Results and Conclusion 8](#_Toc15032)
-
-[Future Work 9](#_Toc15033)
-
-[References 10](#_Toc15034)
 
 ## Introduction
 
